@@ -5,10 +5,10 @@ import urllib.request
 from moviepy.editor import *
 from pytube import YouTube
 
-CLIENT_ID = "dRx3MqCjlQnXU-XRgF4xIg"
-SECRET_TOKEN = "FMDZ6J21EVcANnhIb_hejhHbKBbk0w"
-USERNAME = "QuarterIcey"
-PASSWORD = "1monkeys"
+CLIENT_ID = ""
+SECRET_TOKEN = ""
+USERNAME = ""
+PASSWORD = ""
 # note that CLIENT_ID refers to 'personal use script' and SECRET_TOKEN to 'token'
 auth = requests.auth.HTTPBasicAuth(CLIENT_ID, SECRET_TOKEN)
 
