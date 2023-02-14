@@ -1,6 +1,6 @@
 # Reddit Video Downloader
 
-Python script to download videos from Reddit.
+Python script to download videos from Reddit and compiles them into one video.
 
 ## Requirements
 
